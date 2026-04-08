@@ -1,7 +1,8 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "Universal sans.rng Script",
+   Name = "UNIVERSAL SANS.RNG SCRIPT
+         DONT USE ON IDK.RNG AND MEGAVERSAL.RNG",
    LoadingTitle = "sans.rng autoclick!!",
    LoadingSubtitle = "WOWOWOWOW",
    ConfigurationSaving = { Enabled = false }
@@ -13,7 +14,7 @@ local AutoClick = false
 local RunService = game:GetService("RunService")
 
 Tab:CreateToggle({
-   Name = "Start Farm👀",
+   Name = "Start Farming🌹🤑",
    CurrentValue = false,
    Callback = function(Value)
       AutoClick = Value
